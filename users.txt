@@ -1,0 +1,19 @@
+[{
+"login": "robson@gmail.com", "senha": "42321"
+},{
+"login": "holes@gmail.com", "senha": "65433"
+},{
+"login": "rtlogin@gmail.com", "senha": "98344"
+},{
+"login": "loucart@hotmail.com", "senha": "34444"
+},{
+"login": "denisdolhp12@outlook.com", "senha": "5353gor90"
+},{
+"login": "fernandoperis2@gmail.com", "senha": "fernando6924"
+}]
+
+
+
+
+
+
